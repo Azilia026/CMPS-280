@@ -1,0 +1,5 @@
+Count: 12345
+Largest: 1000
+Smallest: 1
+Sum: 6159545
+Average: 498
